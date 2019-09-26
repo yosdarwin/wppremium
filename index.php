@@ -1,4 +1,6 @@
 <?php get_header(); ?>
+
+<h2>Coba lagi aja</h2>
 <section class="middle-area">
     <div class='container'>
         <div class='row'>
