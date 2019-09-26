@@ -1,0 +1,16 @@
+/* 
+Theme Name: Yos Premium
+Author: Yosdarwin
+Author Uri: http://yos.com/
+version: 1.0
+License GNU Yosdarwin For Learning
+License Uri: http://license.com/
+Description: this theme just for learning purpose
+Tags: clean, professional, corporate
+Text Domain: themename
+*/
+
+.img-fluid{
+    min-width: 100%;
+}
+ .sidebar { background-color: rosybrown; padding: 10px; }
