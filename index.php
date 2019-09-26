@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-<h4>hello git</h4>
 <section class="middle-area">
     <div class='container'>
         <div class='row'>
